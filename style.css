@@ -246,8 +246,7 @@ h1, h2, .btn, .ticket, .r-rank, .r-name, .big, .intro-to { font-family: 'Jua', s
 
 /* ---------- 다른 칸 공개 ---------- */
 .tease { white-space: pre-line; color: var(--pink-deep); font-family: 'Jua', sans-serif; font-size: 18px; line-height: 1.5; margin-bottom: 14px; }
-.r-desc, .big small { white-space: pre-line; }
-.big small { display: block; font-size: 15px; opacity: .7; margin-top: 6px; }
+.r-desc { white-space: pre-line; }
 
 /* ---------- "진짜 줌" 도장 ---------- */
 .promise {
